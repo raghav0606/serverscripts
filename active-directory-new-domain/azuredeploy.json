@@ -31,7 +31,7 @@
             "metadata": {
                 "description": "The location of resources, such as templates and DSC modules, that the template depends on"
             },
-            "defaultValue": "https://github.com/raghav0606/serverscripts/master/active-directory-new-domain"
+            "defaultValue": "https://github.com/raghav0606/serverscripts/tree/master/active-directory-new-domain"
         },
         "_artifactsLocationSasToken": {
             "type": "securestring",
